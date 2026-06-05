@@ -7,7 +7,7 @@
       "name": "Crusher Shutdown",
       "desc": "Update Progress and access Docs",
       "url": "https://jbbunno.github.io/LivetrackGold1/",
-      "emoji": "📍",
+      "emoji": "🛠️",
       "color": "c0",
       "enabled": true
     },
@@ -16,7 +16,7 @@
       "name": "Mills Shutdown",
       "desc": "Mills Work Orders",
       "url": "https://jbbunno.github.io/LivetrackGold2/",
-      "emoji": "⚡",
+      "emoji": "⚙️",
       "color": "c1",
       "enabled": true
     },
