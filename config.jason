@@ -1,19 +1,19 @@
 {
   "adminPin": "1234",
-  "loginPassword": "goldshut",
+  "loginPassword": "goldshut26",
   "apps": [
     {
       "id": "app1",
       "name": "Crusher Shutdown",
       "desc": "Add your description here",
-      "url": "",
+      "url": "https://jbbunno.github.io/LivetrackGold1/",
       "emoji": "📍",
       "color": "c0",
       "enabled": true
     },
     {
       "id": "app2",
-      "name": "Screenhouse Shut",
+      "name": "App Two",
       "desc": "Add your description here",
       "url": "",
       "emoji": "⚡",
