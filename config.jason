@@ -4,7 +4,7 @@
   "apps": [
     {
       "id": "app1",
-      "name": "App One",
+      "name": "Crusher Shutdown",
       "desc": "Add your description here",
       "url": "",
       "emoji": "📍",
@@ -13,7 +13,7 @@
     },
     {
       "id": "app2",
-      "name": "App Two",
+      "name": "Screenhouse Shut",
       "desc": "Add your description here",
       "url": "",
       "emoji": "⚡",
@@ -27,7 +27,7 @@
       "url": "",
       "emoji": "📄",
       "color": "c2",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
