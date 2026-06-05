@@ -4,7 +4,7 @@
   "apps": [
     {
       "id": "app1",
-      "name": "Mills Shutdown",
+      "name": "Crusher Shutdown",
       "desc": "Update Progress and access Docs",
       "url": "https://jbbunno.github.io/LivetrackGold1/",
       "emoji": "📍",
@@ -13,9 +13,9 @@
     },
     {
       "id": "app2",
-      "name": "App Two",
-      "desc": "Add your description here",
-      "url": "",
+      "name": "Mills Shutdown",
+      "desc": "Mills Work Orders",
+      "url": "https://jbbunno.github.io/LivetrackGold2/",
       "emoji": "⚡",
       "color": "c1",
       "enabled": true
