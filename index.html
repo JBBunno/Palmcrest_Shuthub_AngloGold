@@ -252,7 +252,7 @@
   ];
 
   let apps = JSON.parse(JSON.stringify(DEFAULT_APPS));
-  let adminPin = localStorage.getItem('pc_hub_pin') || '1234';
+  let adminPin = localStorage.getItem('pc_hub_pin_anglogold') || '1234';
   let tapCount = 0, tapTimer = null, pinEntry = '';
 
   // IFRAME VIEWER
@@ -290,7 +290,7 @@
   }
 
   // LOGIN
-  const LOGIN_PASSWORD_KEY = 'pc_hub_pw';
+  const LOGIN_PASSWORD_KEY = 'pc_hub_pw_anglogold';
   function loadLoginPw() { return localStorage.getItem(LOGIN_PASSWORD_KEY) || 'palmcrest'; }
   function saveLoginPw(p) { localStorage.setItem(LOGIN_PASSWORD_KEY, p); }
 
@@ -349,7 +349,7 @@
   }
 
   // PIN
-  function savePin(p) { localStorage.setItem('pc_hub_pin', p); adminPin = p; }
+  function savePin(p) { localStorage.setItem('pc_hub_pin_anglogold', p); adminPin = p; }
 
   function showPage(id) {
     document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
