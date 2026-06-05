@@ -1,0 +1,33 @@
+{
+  "adminPin": "1234",
+  "loginPassword": "goldshut",
+  "apps": [
+    {
+      "id": "app1",
+      "name": "App One",
+      "desc": "Add your description here",
+      "url": "",
+      "emoji": "📍",
+      "color": "c0",
+      "enabled": true
+    },
+    {
+      "id": "app2",
+      "name": "App Two",
+      "desc": "Add your description here",
+      "url": "",
+      "emoji": "⚡",
+      "color": "c1",
+      "enabled": true
+    },
+    {
+      "id": "app3",
+      "name": "App Three",
+      "desc": "Add your description here",
+      "url": "",
+      "emoji": "📄",
+      "color": "c2",
+      "enabled": true
+    }
+  ]
+}
